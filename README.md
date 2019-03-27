@@ -66,3 +66,12 @@ For users on the younger spectrum, the design will be more descriptive. I am awa
 
 ## Part C: Prototypes
 We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+
+**Homepage**
+![Scan/Photo of Sketches](public/home.png)
+
+**Ad Details**
+![Scan/Photo of Sketches](public/ad_details.png)
+
+**Register**
+![Scan/Photo of Sketches](public/register.png)
