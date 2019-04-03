@@ -9,10 +9,13 @@ You need **not** sketch the whole interface. It is not necessary for the sketche
 ### 1. Scan/Photo of Sketches
 **V1**
 ![Scan/Photo of Sketches](public/1.jpg)
+Image 1: V1 sketch
 **V2**
 ![Scan/Photo of Sketches](public/2.jpg)
+Image 2: V2 sketch
 **V3**
 ![Scan/Photo of Sketches](public/3.jpg)
+Image 3: V3 sketch
 
 
 ### 2. Version Differences
@@ -69,11 +72,15 @@ We will work on this part together during the class on **March 22nd, 2019**, 10:
 
 **Homepage**
 ![Scan/Photo of Sketches](public/home.png)
+Image 4: Actions that can be done on the homepage
 
 **Ad Details**
 ![Scan/Photo of Sketches](public/ad_details.png)
+Image 5: Actions that can be done on the ad page
 
 **Register**
 ![Scan/Photo of Sketches](public/register.png)
+Image 6: Clear error message during registration
 
-https://invis.io/ZPR8BMPFS4K#/354664310_1
+**High Fidelity** [Updated]
+https://invis.io/HRRCNFLXCSV#/355978309_Home
